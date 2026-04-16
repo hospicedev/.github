@@ -1,4 +1,4 @@
-# hospicedev
+# Hospice Dev
 
 We keep things alive a little longer than they'd otherwise survive.
 
